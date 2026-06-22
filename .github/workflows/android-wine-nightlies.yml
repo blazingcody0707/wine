@@ -19,6 +19,7 @@ on:
         options:
           - app.gamenative
           - com.winlator.cmod
+          - com.termux-mobox
       wine_repo:
         description: Upstream repo for plain Wine build
         required: false
